@@ -1,0 +1,26 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lowdb": "^1.0.15",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "lowdb": "^7.0.1",
+    "masto": "^6.8.0",
+    "protobufjs": "^7.4.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}
